@@ -20,7 +20,7 @@ This project extracts mobile data from Flipkart under Rs.50,000 , transforms it,
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone ["your_gitrepo_url"] 
    ```
 2. Install dependencies:
    ```bash
