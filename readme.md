@@ -9,6 +9,14 @@ This project extracts mobile data from Flipkart under Rs.50,000 , transforms it,
 - `load.py` → Saves the processed data into `mobiles_under_50000.csv`.
 - `flipkart_etl_dag.py` → Airflow DAG to schedule the ETL pipeline.
 
+## Technologies / Libraries Used
+- Python 3.x
+- BeautifulSoup → for web scraping
+- Requests → to fetch web pages
+- Pandas → for data cleaning and manipulation
+- Airflow → to schedule the ETL pipeline
+- CSV → to save the final output
+
 ## How to Run
 1. Clone the repo:
    ```bash
