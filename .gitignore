@@ -16,3 +16,4 @@ airflow/logs/
 
 .DS_Store
 Thumbs.db
+*.pyc
